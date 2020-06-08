@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PC计划</string>
+    <string name="params_info">第一个文本框输入振动的时长：\n【暂停，振动，暂停，振动...】单位是毫秒\n\n第二个文本框输入重复次数</string>
+</resources>
